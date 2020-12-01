@@ -1,0 +1,6 @@
+.select select {
+  box-shadow: none !important;
+  height: 30px;
+  padding: 3px 10px;
+  border-radius: 4px;
+}
